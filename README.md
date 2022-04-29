@@ -3,7 +3,7 @@ Vue Express Template
 </h1>
 
 <p align="center">
-✈️ A monorepo with Vue 3.x frontend and Express 4.x backend.
+🚀 A monorepo with Vue 3.x frontend and Express 4.x backend.
 <p>
 
 <p align="center">

@@ -10,18 +10,29 @@ Vue Express Template
 用于快速开启一个小型的前后端分离、共同管理的基础模板项目
 <p>
 
-## 1、安装
+
+## 📦 Installation
 
 ```
 pnpm install
 ```
 
-## 2、运行
+## 🚀 Running
 
 ```
 pnpm start
 ```
 
-## 3、访问
+🎡 Playground: http://localhost:4500/
 
-http://localhost:4500/
+
+## 🤟 Update Dependencies
+
+```
+$ pnpm --recursive update
+$ pnpm --recursive update <package-name> --latest
+```
+
+## License
+
+[MIT](./LICENSE) License | Copyright © 2020-PRESENT [Wisdom](https://github.com/pdsuwwz)
